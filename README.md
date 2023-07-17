@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, c# and typescript**
 
-- 📫 you can contact me via mail at: **aki.oneye@mail.com**
+- 📫 you can contact me via mail at: **p.pietroob@gmail.com**
 
 
 <p align="center">
